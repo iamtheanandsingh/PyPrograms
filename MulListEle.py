@@ -1,5 +1,3 @@
-#this prints idk what
-
 ls = []
 
 x= int(input("\n Enter The Number Of Elements In The List : \n"))
