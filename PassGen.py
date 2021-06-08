@@ -7,3 +7,4 @@ numb = '1234567890'
 
 st = caps + smol + symb + numb
 
+for
