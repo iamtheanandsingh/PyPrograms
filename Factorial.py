@@ -1,3 +1,5 @@
+#printing factorial of a number
+
 x = int(input("Enter The Number Till Factorial Is Wanted : "))
 
 fact = 1
