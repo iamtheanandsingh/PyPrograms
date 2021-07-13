@@ -1,3 +1,5 @@
+#Code To Find BMI Of A Person!
+
 def bmi(h,w):
     bm = (w/(h*h))*10000
     return bm
