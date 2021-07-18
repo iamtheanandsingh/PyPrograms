@@ -13,7 +13,6 @@ def binary_search(arr, x):
 			return mid
 	return -1
 
-
 arr = []
 
 y = int(input("Enter Range Of Array : "))
