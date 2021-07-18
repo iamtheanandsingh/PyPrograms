@@ -4,7 +4,7 @@ n = random.randint(0, 10)
 
 for i in range(0, 3):
     f = 2
-    z = char(input("Want To Play A Game? Y/N : "))
+    z = input("Want To Play A Game? Y/N : ")
     if f > -1:
         
         if z == 'Y' or z == 'y':
