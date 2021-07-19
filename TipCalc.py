@@ -25,4 +25,4 @@ z = int(input("How Many Will Split The Bill? : "))
 
 each = round(tot/z, 2)
 
-print("Each Person Should Pay : $", )
+print("Each Person Should Pay : $", each)
