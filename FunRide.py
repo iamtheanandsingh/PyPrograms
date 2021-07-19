@@ -6,15 +6,15 @@ def photu(ph):
 
 x = int(input("Enter Your Height In cm : "))
 
-print("Kid Tickets Are $5")
-print("Teenager's Tickets Are $7")
-print("Adult Tickets Are $12")
+print("\nKid Tickets Are $5.")
+print("Teenager's Tickets Are $7.")
+print("Adult Tickets Are $12.")
 
-print("Enter ")
+print("\nYou Can Add Photos For Just $3!!!")
 
 if x > 120:
     age = int(input("Enter Age : "))
-    ph = input("Want A Photo? Y/N")
+    ph = input("Want A Photo? Y/N : ")
     z = photu(ph)
 
     if age > 18:
@@ -32,3 +32,6 @@ if x > 120:
             print("Bill = $8")
         else: 
             print("Bill = $5")
+else:
+    print("\nSorry T_T You Cannot Get In The Ride!")
+print("\nThank You For Riding With Us!")
