@@ -1,0 +1,1 @@
+A Discord Bot Made By Anand Singh, integrated in my own server 'isekai'
