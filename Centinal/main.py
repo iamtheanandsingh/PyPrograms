@@ -1,3 +1,5 @@
+# A Discord Bot
+
 import discord
 import os
 import requests
