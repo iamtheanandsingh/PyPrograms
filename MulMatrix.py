@@ -13,3 +13,11 @@ for i in range(0,x):
     for j in range(0,y):
         p = input()
         arr2.append(p)
+
+res = []
+
+for i in range(0, x):
+    for j in range(0, y):
+        for i in range(0, x):
+            for j in range(0, y):
+                v = arr1[i][j]
