@@ -10,7 +10,7 @@ client = discord.Client()
 
 sad_words = ["sad", "depressed", "unhappy", "angry", "miserable", "depressing", "cry"]
 
-happy_words = ["happy", "cheer", "laugh", "good", ]
+happy_words = ["happy", "cheer", "laugh", "good", "laughing"]
 
 starter_encouragements = [
     "Cheer up!", "Hang in there.", "You are a great person / bot!", "It All Gets Better!", "lmao noob"
