@@ -6,12 +6,14 @@ def hcf(num1, num2):
     for i in range(1, less+1):
         if num1%i == 0 and num2%i==0:
             hcf = i
+    return hcf
 
 def lcm(lcm1, lcm2):
     t = lcm1 * lcm2
     for j in range(0, t + 1):
         if j%lcm1==0 and j%lcm2==0:
             lcm = j
+    return lcm
 
 x = int(input("Enter A : "))
 y = int(input("Enter B : "))
